@@ -1,2 +1,2 @@
-# honework2
+# homework2
 Семинар 2
