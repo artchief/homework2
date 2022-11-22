@@ -12,11 +12,11 @@ if (num<1||num>7);
 {
     Console.WriteLine("Это не день недели");
 }
-    else if (num==6||num==7);
-    {
-        Console.WriteLine("Это Выходной День!");  
-    }
-        else
-        {
-            Console.WriteLine("Это серые будни"); 
-        }
+else if (num==6||num==7);
+{
+    Console.WriteLine("Это Выходной День!");  
+}
+else if(num==1||num==2||num==3||num==4||num==5);
+{
+     Console.WriteLine("Это серые будни"); 
+}

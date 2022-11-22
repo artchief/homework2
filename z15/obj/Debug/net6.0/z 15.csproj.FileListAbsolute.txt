@@ -1,0 +1,10 @@
+D:\Тестер\с#\homework2\z 15\obj\Debug\net6.0\z 15.csproj.AssemblyReference.cache
+D:\Тестер\с#\homework2\z 15\obj\Debug\net6.0\z 15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестер\с#\homework2\z 15\obj\Debug\net6.0\z 15.AssemblyInfoInputs.cache
+D:\Тестер\с#\homework2\z 15\obj\Debug\net6.0\z 15.AssemblyInfo.cs
+D:\Тестер\с#\homework2\z 15\obj\Debug\net6.0\z 15.csproj.CoreCompileInputs.cache
+D:\Тестер\с#\homework2\z15\obj\Debug\net6.0\z 15.csproj.AssemblyReference.cache
+D:\Тестер\с#\homework2\z15\obj\Debug\net6.0\z 15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестер\с#\homework2\z15\obj\Debug\net6.0\z 15.AssemblyInfoInputs.cache
+D:\Тестер\с#\homework2\z15\obj\Debug\net6.0\z 15.AssemblyInfo.cs
+D:\Тестер\с#\homework2\z15\obj\Debug\net6.0\z 15.csproj.CoreCompileInputs.cache
